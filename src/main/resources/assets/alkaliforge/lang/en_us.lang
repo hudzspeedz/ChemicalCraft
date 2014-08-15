@@ -1,0 +1,35 @@
+item.alkaliforge:LithiumDust.name=Lithium Dust
+item.alkaliforge:SodiumDust.name=Sodium Dust
+item.alkaliforge:PotassiumDust.name=Potassium Dust
+item.alkaliforge:RubidiumDust.name=Rubidium Dust
+item.alkaliforge:CaesiumDust.name=Caesium Dust
+item.alkaliforge:FranciumDust.name=Francium Dust
+
+
+item.alkaliforge:LithiumChunk.name=Lithium Chunk
+item.alkaliforge:SodiumChunk.name=Sodium Chunk
+item.alkaliforge:PotassiumChunk.name=Potassium Chunk
+item.alkaliforge:RubidiumChunk.name=Rubidium Chunk
+item.alkaliforge:CaesiumChunk.name=Caesium Chunk
+item.alkaliforge:FranciumChunk.name=Francium Chunk
+
+
+tile.alkaliforge:LithiumBlock.name=Lithium Block
+tile.alkaliforge:SodiumBlock.name=Sodium Block
+tile.alkaliforge:PotassiumBlock.name=Potassium Block
+tile.alkaliforge:RubidiumBlock.name=Rubidium Block
+tile.alkaliforge:CaesiumBlock.name=Caesium Block
+tile.alkaliforge:FranciumBlock.name=Francium Block
+
+
+
+tile.alkaliforge:LithiumOreBlock.name=Lithium Ore
+tile.alkaliforge:SodiumOreBlock.name=Sodium Ore
+tile.alkaliforge:PotassiumOreBlock.name=Potassium Ore
+tile.alkaliforge:RubidiumOreBlock.name=Rubidium Ore
+tile.alkaliforge:CaesiumOreBlock.name=Caesium Ore
+tile.alkaliforge:FranciumOreBlock.name=Francium Ore
+
+
+
+
